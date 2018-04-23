@@ -1,3 +1,3 @@
 # Java project for the simple battleship game
 
-see the CIT590-HW7.pdf for more details.
+see the CIT590HW8.pdf for more details.
